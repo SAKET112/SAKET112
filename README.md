@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saket112" alt="saket112" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Next Js**
 
-- 💬 Ask me about **html, CSS, JavaScript,TypeScript, ReactJs, React-Native**
+- 💬 Ask me about **html, CSS, JavaScript,TypeScript, ReactJs, React-Native, Next Js**
 
 - 📫 How to reach me **ranjan.saket0910@gmail.com**
 
